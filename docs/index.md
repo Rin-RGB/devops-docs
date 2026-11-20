@@ -12,3 +12,5 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://Rin-RGB.github.io/devops-docs/`.
+
+[Ссылка для проверки нового workflow](missing-page.md)
